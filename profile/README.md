@@ -1,3 +1,4 @@
+![LifeFrameAI Banner](./banner.png)
 # 🧬 LifeFrameAI
 
 **LifeFrameAI** is an innovative technology company specializing in the development of intelligent, scalable systems for enterprises and government agencies.  
