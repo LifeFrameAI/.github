@@ -21,9 +21,8 @@ LifeFrameAI stands for **custom, intelligent solutions** that generate sustainab
 ---
 
 ## 📂 Project Portfolio (Highlights)
-- **ALISE** – Modular AI agent for speech, logic, and automation.
-- **LifeFrame Core** – Internal platform for centralized AI and system logic.
-- **NeuroFlow** – Processing pipeline for real-time, context-aware responses.
+- **ALISE** – Artificial Lifeform for Integrated Sentient Evolution.  
+- **CAP** – Context Awareness Protocol for dynamic, context-driven AI behavior and seamless integration with external systems.
 
 ---
 
