@@ -8,10 +8,6 @@ We combine **Artificial Intelligence**, **Automation**, and **System Integration
 
 ## 🚀 Services & Expertise
 - **AI Development** – Language models, context-based assistants, machine learning.
-- **Automation** – End-to-end automation of complex business processes.
-- **System Integration** – Connecting and harmonizing existing systems and platforms.
-- **Security Solutions** – Data protection–compliant architectures for sensitive information.
-
 ---
 
 ## 🌟 Vision
@@ -22,7 +18,7 @@ LifeFrameAI stands for **custom, intelligent solutions** that generate sustainab
 
 ## 📂 Project Portfolio (Highlights)
 - **ALISE** – Artificial Lifeform for Integrated Sentient Evolution.  
-- **CAP** – Context Awareness Protocol for dynamic, context-driven AI behavior and seamless integration with external systems.
+- **CAP** – Context Awareness Protocol for dynamic, context-driven AI behavior and seamless integration with external systems. (Like MCP but for CLient Interactions)
 
 ---
 
