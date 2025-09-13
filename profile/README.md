@@ -18,7 +18,7 @@ LifeFrameAI stands for **custom, intelligent solutions** that generate sustainab
 
 ## 📂 Project Portfolio (Highlights)
 - **ALISE** – Artificial Lifeform for Integrated Sentient Evolution.  
-- **CAP** – Context Awareness Protocol for dynamic, context-driven AI behavior and seamless integration with external systems. (Like MCP but for CLient Interactions)
+- **CAP** – Context Awareness Protocol for dynamic, context-driven AI behavior and seamless integration with external systems. (Like MCP but for Client Interactions)
 
 ---
 
